@@ -1,0 +1,6 @@
+db/data/*
+!db/data/.gitkeep
+.idea
+workspace/*
+!workspace/index.php
+!workspace/init.sh
